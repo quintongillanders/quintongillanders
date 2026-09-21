@@ -28,7 +28,7 @@ I enjoy building responsive web applications with React, JavaScript, Firebase, a
         <img src="assets/schoolhive.png" width="480" alt="SchoolHIVE Marketplace project preview" />
       </a>
       <h3>SchoolHIVE Marketplace NZ</h3>
-      <p>A community marketplace helping South Auckland families access school uniforms and essentials. Built with two teammates for our 2025 Unitec capstone project.</p>
+      <p>A community marketplace helping families access school uniforms and essentials. Built with two teammates for our 2025 Unitec capstone project.</p>
       <p><strong>React · Firebase · Material UI</strong></p>
       <p>First place at the Unitec Whānau Day Showcase, and featured on RNZ.</p>
       <p><a href="https://www.schoolhive.co.nz/">Visit website</a> · <a href="https://quinton-portfolio-nine.vercel.app/schoolhive">Case study</a></p>
@@ -38,7 +38,7 @@ I enjoy building responsive web applications with React, JavaScript, Firebase, a
         <img src="assets/quinelo.png" width="480" alt="quinelo education tool project preview" />
       </a>
       <h3>quinelo</h3>
-      <p>An education tool I'm developing to help teachers save time preparing quizzes, with AI-assisted questions and downloadable classroom PDFs.</p>
+      <p>An education tool I'm developing to help teachers save time preparing quizzes, with AI generated questions and downloadable classroom PDFs.</p>
       <p><strong>React · CSS · Firebase · OpenAI</strong></p>
       <p>In closed beta, with feedback from testers at Success Tutoring New Lynn.</p>
       <p><a href="https://www.quinelo.co.nz">Visit website</a> · <a href="https://quinton-portfolio-nine.vercel.app/quinelo">Case study</a></p>
@@ -52,7 +52,7 @@ I enjoy building responsive web applications with React, JavaScript, Firebase, a
   <img src="assets/wormgame.png" width="480" alt="Worm Catching Game gameplay preview" />
 </a>
 
-A browser game I built in 2024 using **HTML, CSS, and JavaScript**. Catch moving worms before time runs out, using keyboard controls and sound effects along the way.
+A browser game I built in 2024 during my Unitec bachelor of computing systems, using **HTML, CSS, and JavaScript**. Catch moving worms before time runs out, using keyboard controls and sound effects along the way.
 
 [Play the game](https://quintongillanders.github.io/wormcatchinggame.github.io/) · [Read the case study](https://quinton-portfolio-nine.vercel.app/wormcatchinggame)
 
