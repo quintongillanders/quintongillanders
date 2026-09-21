@@ -48,9 +48,18 @@ I enjoy building responsive web applications with React, JavaScript, Firebase, a
 
 ### Worm Catching Game
 
+<a href="https://quinton-portfolio-nine.vercel.app/wormcatchinggame">
+  <img src="assets/wormgame.png" width="480" alt="Worm Catching Game gameplay preview" />
+</a>
+
 A browser game I built in 2024 using **HTML, CSS, and JavaScript**. Catch moving worms before time runs out, using keyboard controls and sound effects along the way.
 
 [Play the game](https://quintongillanders.github.io/wormcatchinggame.github.io/) · [Read the case study](https://quinton-portfolio-nine.vercel.app/wormcatchinggame)
+
+## Projects I'm working on
+
+- **TutorOS:** More details on TutorOS will be shared in the coming months.
+- **Hazard ID:** A hazard identification and tracking tool built to help streamline safety reporting and risk management workflows. Coming soon!
 
 ## My toolkit
 
