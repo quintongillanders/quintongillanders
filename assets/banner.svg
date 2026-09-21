@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Quinton Gillanders — Full Stack Software Developer</title>
+  <desc id="desc">A warm orange sunset over a dark city skyline, inspired by Quinton's portfolio. Auckland, New Zealand.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#b86b3f"/>
+      <stop offset=".38" stop-color="#9a4f38"/>
+      <stop offset=".75" stop-color="#4b4650"/>
+      <stop offset="1" stop-color="#11151d"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#ffb45a" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#ffb45a" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="360" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path fill="url(#sky)" d="M0 0h1200v360H0z"/>
+    <ellipse cx="930" cy="145" rx="350" ry="260" fill="url(#glow)"/>
+    <circle cx="958" cy="178" r="66" fill="#ffb16f" opacity=".5"/>
+    <path fill="#24242d" opacity=".65" d="M0 288h42v-48h52v25h40v-66h50v79h65v-39h54v49h65v-64h52v40h44v-22h61v41h64v-52h43v24h53v-62h44v57h53v-28h42v-43h45v49h50v-58h44v80h35v-28h55v-59h47v45h55v-15h52v56h54v86H0z"/>
+    <path fill="#11151d" d="M0 319h63v-34h45v17h58v-48h55v58h54v-29h73v33h65v-48h48v36h89v-24h55v39h105v-43h56v34h58v-62h41v-21h9v-41h5v-49h4v49h5v41h9v21h20v66h45v-38h58v49h56v-67h58v55h63v-32h52v39h48v45H0z"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="64" y="75" fill="#ffe1c5" font-size="15" font-weight="600" letter-spacing="3">AUCKLAND, NEW ZEALAND</text>
+      <text x="60" y="151" fill="#ffffff" font-size="60" font-weight="700" letter-spacing="-2">Quinton Gillanders</text>
+      <text x="64" y="197" fill="#fff0e5" font-size="26">Full Stack Software Developer</text>
+      <rect x="64" y="224" width="335" height="37" rx="18.5" fill="#11151d" fill-opacity=".55" stroke="#f2a15f" stroke-opacity=".65"/>
+      <text x="84" y="248" fill="#ffe1c5" font-size="15">React · JavaScript · Firebase · Material UI</text>
+    </g>
+  </g>
+</svg>
